@@ -1,7 +1,10 @@
 {
   "name": "pong",
   "private": true,
-  "version": "0.0.0",
+  "author": {
+    "name": "Reinny Almonte"
+  },
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
